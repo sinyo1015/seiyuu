@@ -149,7 +149,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Miku Itou",
     img: "qBQ7v0O.jpg",
     opts: {
-      series: ["ML, BD"]
+      series: ["ML", "BD"]
     }
   },
   {
@@ -345,7 +345,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Yuki Nakashima",
     img: "nQK2dPj.jpg",
     opts: {
-      series: ["CG, BD"]
+      series: ["CG", "BD"]
     }
   },
   {
@@ -478,7 +478,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Sumire Uesaka",
     img: "H4jVXcd.jpg",
     opts: {
-      series: ["CG, BD"]
+      series: ["CG", "BD"]
     }
   },
   {
@@ -674,7 +674,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Tomoyo Kurosawa",
     img: "Awiu6Ts.jpg",
     opts: {
-      series: ["CG, BD"]
+      series: ["CG", "BD"]
     }
   },
   {
@@ -903,7 +903,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Azusa Tadokoro",
     img: "mC4VaAK.png",
     opts: {
-      series: ["ML, BD"]
+      series: ["ML", "BD"]
     }
   },
   {
@@ -980,7 +980,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Aimi",
     img: "KSIQEsD.png",
     opts: {
-      series: ["ML, BD"]
+      series: ["ML", "BD"]
     }
   },
   {
