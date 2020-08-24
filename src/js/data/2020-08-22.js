@@ -859,6 +859,13 @@ dataSet[dataSetVersion].characterData = [
       series: ["CG"]
     }
   },
+{
+    name: "Rie Murakawa",
+    img: "NNCxwXK.jpg",
+    opts: {
+      series: ["ML"]
+    }
+  },
   {
     name: "Reina Ueda",
     img: "o7a1F4r.png",
