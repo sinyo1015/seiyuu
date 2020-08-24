@@ -1535,13 +1535,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yuka Ozaki",
-    img: "SeO3yG9.jpg",
-    opts: {
-      series: ["BD"]
-    }
-  },
-  {
     name: "Ari Ozawa",
     img: "IZI9GQT.jpg",
     opts: {
