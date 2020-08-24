@@ -861,7 +861,7 @@ dataSet[dataSetVersion].characterData = [
   },
 {
     name: "Rie Murakawa",
-    img: "NNCxwXK.jpg",
+    img: "Jlk92lB.jpg",
     opts: {
       series: ["ML"]
     }
