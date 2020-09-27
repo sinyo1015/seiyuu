@@ -1603,5 +1603,19 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["BD"]
     }
+  },
+	{
+    name: "Megu Umezawa",
+    img: "VDoNyRp.jpg",
+    opts: {
+      series: ["CG"]
+    }
+  },
+	{
+    name: "Maki Kawase",
+    img: "4pVXsG7.jpg",
+    opts: {
+      series: ["CG"]
+    }
   }
 ];
