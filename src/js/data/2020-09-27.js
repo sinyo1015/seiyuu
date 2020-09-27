@@ -1606,7 +1606,7 @@ dataSet[dataSetVersion].characterData = [
   },
 	{
     name: "Megu Umezawa",
-    img: "VDoNyRp.jpg",
+    img: "VDoNyRp.jpg?1",
     opts: {
       series: ["CG"]
     }
