@@ -1722,36 +1722,41 @@ dataSet[dataSetVersion].characterData = [
     img: "6z59IcP.png",
     opts: {
       series: ["D4"]
+	  }
     },
 	{
     name: "Sayuri Date",
     img: "2JTkqqk.png",
     opts: {
       series: ["LL"]
+	  }
     },
 	{
     name: "Nagisa Aoyama",
     img: "RvgRxY5.png",
     opts: {
       series: ["LL"]
+	  }
     },
 	{
     name: "Naomi Payton",
     img: "GCyMv2Y.png",
     opts: {
       series: ["LL"]
+	  }
     },
 	{
     name: "Liyuu",
     img: "HFPLpJV.png",
     opts: {
       series: ["LL"]
+	  }
     },
 	{
     name: "Nako Misaki",
     img: "yBloyKb.png",
     opts: {
       series: ["LL"]
+	  }
     }
-  }
 ];
