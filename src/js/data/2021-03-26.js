@@ -1758,7 +1758,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["LL"]
 	  }
-    }
+    },
 	{
     name: "Azusa Shizuki",
     img: "HSEfrws.png",
