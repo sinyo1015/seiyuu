@@ -1742,7 +1742,7 @@ dataSet[dataSetVersion].characterData = [
       series: ["LL"]
     },
 	{
-    name: "Liella",
+    name: "Liyuu",
     img: "HFPLpJV.png",
     opts: {
       series: ["LL"]
