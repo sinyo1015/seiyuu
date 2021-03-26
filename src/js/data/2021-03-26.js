@@ -1759,4 +1759,18 @@ dataSet[dataSetVersion].characterData = [
       series: ["LL"]
 	  }
     }
+	{
+    name: "Azusa Shizuki",
+    img: "HSEfrws.png",
+    opts: {
+      series: ["SC"]
+	  }
+    },
+	    {
+    name: "Aya Yamane",
+    img: "AMvSgWU.png",
+    opts: {
+      series: ["SC"]
+	  }
+    }
 ];
