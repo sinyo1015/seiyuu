@@ -1933,5 +1933,12 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["ML"]
 	  }
+    },
+	    {
+    name: "Izumi Kitta",
+    img: "uxs328t.png",
+    opts: {
+      series: ["BD"]
+	  }
     }
 ];
