@@ -1779,82 +1779,86 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Mei Hanakawa / Yui Asakura",
-        img: "Oj7Hpow.jpg",
+        name: "Mei Hanakawa",
+        img: "WmNc4jv.jpg",
         opts: {
             series: ["22_7"],
-            sub : ["Kamen Rider Revice"]
+            sub : ["Kamen Rider Revice"],
+            alt_name : ["Yui Asakura"]
         }
     },
     {
-        name: "Chiharu Hokaze / Chiharu Terakawa",
-        img: "0EXTTgO.jpg",
+        name: "Chiharu Hokaze",
+        img: "PLpf1oD.jpg",
         opts: {
             series: ["22_7"],
-            sub : ["Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon", "Fate/Grand Order: Zettai Majuu Sensen Babylonia"]
+            sub : ["Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon", "Fate/Grand Order: Zettai Majuu Sensen Babylonia"],
+            alt_name : ["Chiharu Terakawa"]
         }
     },
     {
         name: "Aina Takeda",
-        img: "ZMGWcK9.jpg",
+        img: "CGHT9Mq.jpg",
         opts: {
             series: ["22_7"]
         }
     },
     {
-        name: "Mizuha Kuraoka / Riko Kuramaru",
-        img: "N6uvjxV.jpg",
+        name: "Mizuha Kuraoka",
+        img: "xoj2VL0.jpg",
         opts: {
-            series: ["22_7"]
+            series: ["22_7"],
+            alt_name : ["Riko Kuramaru"]
         }
     },
     {
         name: "Urara Takatsuji",
-        img: "yGsa4TW.jpg",
+        img: "HQZEiEw.jpg",
         opts: {
             series: ["22_7"],
             sub : ["Assault Lily: Odaiba Girls' School"]
         }
     },
     {
-        name: "Ruri Umino / Ruri Yoshimiya",
-        img: "yNQrVHS.jpg",
+        name: "Ruri Umino",
+        img: "P0TJwUF.jpg",
         opts: {
             series: ["22_7"],
-            sub : ["Assault Lily: Odaiba Girls' School"]
+            sub : ["Assault Lily: Odaiba Girls' School"],
+            alt_name : ["Ruri Yoshimiya"]
         }
     },
     {
         name: "Sally Amaki",
-        img: "tjVbUIE.jpg",
+        img: "M9bJpJ0.jpg",
         opts: {
             series: ["22_7"]
         }
     },
     {
         name: "Nagomi Saijo",
-        img: "LUjg0iW.jpg",
+        img: "AWVq7iV.jpg",
         opts: {
             series: ["22_7"]
         }
     },
     {
         name: "Kanae Shirosawa",
-        img: "FBA731W.jpg",
+        img: "gWP0z5R.jpg",
         opts: {
             series: ["22_7"]
         }
     },
     {
         name: "Moe Suzuhana",
-        img: "BQKnbDd.jpg",
+        img: "qv1O0uU.jpg",
         opts: {
             series: ["22_7"]
         }
     },
     {
         name: "Reina Miyase",
-        img: "b4YGN0L.jpg",
+        img: "HhlG7Dg.jpg",
         opts: {
             series: ["22_7"],
             sub : ["Assault Lily The Fateful Gift"]
@@ -1862,63 +1866,63 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Uta Kawase",
-        img: "ssWQSTk.jpg",
+        img: "vAzbMPl.jpg",
         opts: {
             series: ["22_7"]
         }
     },
     {
         name: "Nao Aikawa",
-        img: "iYWhcQU.jpg",
+        img: "vtjY9lf.jpg",
         opts: {
             series: ["22_7"]
         }
     },
     {
         name: "Mao Asaoka",
-        img: "TKrrdGg.jpg",
+        img: "WuLISA5.jpg",
         opts: {
             series: ["22_7"]
         }
     },
     {
         name: "Oto Amaya",
-        img: "zl6zmzG.jpg",
+        img: "Sk2w1gr.jpg",
         opts: {
             series: ["22_7"]
         }
     },
     {
         name: "Kiyoi Mina",
-        img: "xFlsCoW.jpg",
+        img: "YJQ2fZA.jpg",
         opts: {
             series: ["22_7"]
         }
     },
     {
         name: "Shiina Satsuki",
-        img: "ynoYkho.jpg",
+        img: "fORpdul.jpg",
         opts: {
             series: ["22_7"]
         }
     },
     {
         name: "Luna Shijo",
-        img: "1aIpUka.jpg",
+        img: "HQGKeUG.jpg",
         opts: {
             series: ["22_7"]
         }
     },
     {
         name: "Emma Tsukishiro",
-        img: "KA1BW1o.jpg",
+        img: "V1RHhHZ.jpg",
         opts: {
             series: ["22_7"]
         }
     },
     {
         name: "Rino Mochizuki",
-        img: "COcELG0.jpg",
+        img: "NHTQIrJ.jpg",
         opts: {
             series: ["22_7"]
         }
