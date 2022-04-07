@@ -1893,14 +1893,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Kiyoi Mina",
+        name: "Mina Kiyoi",
         img: "YJQ2fZA.jpg",
         opts: {
             series: ["22_7"]
         }
     },
     {
-        name: "Shiina Satsuki",
+        name: "Satsuki Shiina",
         img: "fORpdul.jpg",
         opts: {
             series: ["22_7"]
